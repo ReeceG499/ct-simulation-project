@@ -19,7 +19,7 @@ fig, axes = plt.subplots(1, 4, figsize=(15, 5))
 axes[0].imshow(phantom, cmap='gray')
 axes[0].set_title('Phantom')
 
-axes[1].imshow(sinogram, cmap='gray', aspect='auto')
+axes[1].imshow(sinogram.T, cmap='gray', aspect='auto')
 axes[1].set_title('Sinogram')
 axes[1].set_xlabel('Detector Position')
 axes[1].set_ylabel('Projection Angle')

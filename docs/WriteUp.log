@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.29)  9 JUL 2025 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.29)  11 NOV 2025 16:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -683,17 +683,34 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 [1
 
-{C:/Users/reece/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+{C:/Users/reece/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+LaTeX Warning: Citation `Tafti2023' on page 2 undefined on input line 83.
+
+[2]
 <xray_tube.png, id=19, 640.3925pt x 350.30875pt>
 File: xray_tube.png Graphic file (type png)
 <use xray_tube.png>
 Package pdftex.def Info: xray_tube.png  used on input line 86.
 (pdftex.def)             Requested size: 345.0pt x 188.72559pt.
 
+
+LaTeX Warning: Citation `Mason2018' on page 3 undefined on input line 87.
+
+
+LaTeX Warning: Citation `Mason2018' on page 3 undefined on input line 87.
+
 [3 <./xray_tube.png>]
+
+LaTeX Warning: Citation `CharacteristicRadiation' on page 4 undefined on input 
+line 100.
+
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ¯ in font cmr10!
+
+LaTeX Warning: Citation `Filters' on page 4 undefined on input line 101.
+
 <typicalxrayspectra.png, id=25, 611.4042pt x 395.3169pt>
 File: typicalxrayspectra.png Graphic file (type png)
 <use typicalxrayspectra.png>
@@ -705,6 +722,9 @@ Overfull \hbox (21.84534pt too wide) in paragraph at lines 107--108
  []
 
 [4 <./typicalxrayspectra.png>]
+
+LaTeX Warning: Citation `NISTXRay' on page 5 undefined on input line 127.
+
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
@@ -728,20 +748,41 @@ Overfull \hbox (16.20824pt too wide) in paragraph at lines 142--145
  []
 
 [5]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ¯ in font cmr10!
+
+LaTeX Warning: Citation `Murphy2016' on page 6 undefined on input line 167.
+
 <streakingartefact.jpg, id=41, 621.32124pt x 615.29875pt>
 File: streakingartefact.jpg Graphic file (type jpg)
 <use streakingartefact.jpg>
 Package pdftex.def Info: streakingartefact.jpg  used on input line 170.
 (pdftex.def)             Requested size: 142.26378pt x 140.8773pt.
+
+LaTeX Warning: Citation `GunshotCase' on page 6 undefined on input line 170.
+
+
+LaTeX Warning: Citation `GunshotCase' on page 6 undefined on input line 170.
+
 <cuppingartefact.jpg, id=42, 385.44pt x 432.86719pt>
 File: cuppingartefact.jpg Graphic file (type jpg)
 <use cuppingartefact.jpg>
 Package pdftex.def Info: cuppingartefact.jpg  used on input line 172.
 (pdftex.def)             Requested size: 142.26378pt x 159.76865pt.
+
+LaTeX Warning: Citation `CuppingArtifact' on page 6 undefined on input line 172
+.
+
+
+LaTeX Warning: Citation `CuppingArtifact' on page 6 undefined on input line 172
+.
+
+
+LaTeX Warning: Citation `Shepp1974' on page 6 undefined on input line 179.
+
 [6 <./beamhardening.png>]
+
+LaTeX Warning: Citation `HrachovecPhantom' on page 7 undefined on input line 18
+1.
+
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
@@ -751,25 +792,28 @@ File: simplephantom.png Graphic file (type png)
 Package pdftex.def Info: simplephantom.png  used on input line 188.
 (pdftex.def)             Requested size: 345.0pt x 175.82823pt.
 [7 <./streakingartefact.jpg> <./cuppingartefact.jpg>]
-<coordinate_system.png, id=53, 417.05812pt x 384.43625pt>
+<coordinate_system.png, id=54, 417.05812pt x 384.43625pt>
 File: coordinate_system.png Graphic file (type png)
 <use coordinate_system.png>
 Package pdftex.def Info: coordinate_system.png  used on input line 205.
 (pdftex.def)             Requested size: 250.2368pt x 230.66351pt.
  [8 <./simplephantom.png>]
-<detectorreadout.png, id=58, 430.7292pt x 328.8285pt>
+<detectorreadout.png, id=59, 430.7292pt x 328.8285pt>
 File: detectorreadout.png Graphic file (type png)
 <use detectorreadout.png>
 Package pdftex.def Info: detectorreadout.png  used on input line 227.
 (pdftex.def)             Requested size: 258.43951pt x 197.29861pt.
 [9 <./coordinate_system.png>]
-<sinogramcircle.png, id=65, 603.4545pt x 339.669pt>
+
+LaTeX Warning: Citation `Siddon1985' on page 10 undefined on input line 232.
+
+<sinogramcircle.png, id=66, 603.4545pt x 339.669pt>
 File: sinogramcircle.png Graphic file (type png)
 <use sinogramcircle.png>
 Package pdftex.def Info: sinogramcircle.png  used on input line 237.
 (pdftex.def)             Requested size: 301.7265pt x 169.83408pt.
- [10 <./detectorreadout.png>]
-<sinogramshepp.png, id=70, 706.0779pt x 354.123pt>
+[10 <./detectorreadout.png>]
+<sinogramshepp.png, id=71, 706.0779pt x 354.123pt>
 File: sinogramshepp.png Graphic file (type png)
 <use sinogramshepp.png>
 Package pdftex.def Info: sinogramshepp.png  used on input line 243.
@@ -779,32 +823,51 @@ Overfull \hbox (8.03807pt too wide) in paragraph at lines 243--244
 [][] 
  []
 
+
+LaTeX Warning: Citation `Beatty2012' on page 11 undefined on input line 257.
+
 [11 <./sinogramcircle.png> <./sinogramshepp.png>]
-<sbpreconstructions.png, id=77, 607.068pt x 302.0886pt>
+<sbpreconstructions.png, id=78, 607.068pt x 302.0886pt>
 File: sbpreconstructions.png Graphic file (type png)
 <use sbpreconstructions.png>
 Package pdftex.def Info: sbpreconstructions.png  used on input line 280.
 (pdftex.def)             Requested size: 345.0pt x 171.67601pt.
- [12 <./sbpreconstructions.png>] [13] [14]
-<fourierslicetheorem.jpg, id=90, 260.975pt x 194.7275pt>
+ [12 <./sbpreconstructions.png>]
+
+LaTeX Warning: Citation `Sara2019' on page 13 undefined on input line 289.
+
+
+LaTeX Warning: Citation `Nilsson2020' on page 13 undefined on input line 301.
+
+[13] [14]
+<fourierslicetheorem.jpg, id=91, 260.975pt x 194.7275pt>
 File: fourierslicetheorem.jpg Graphic file (type jpg)
 <use fourierslicetheorem.jpg>
 Package pdftex.def Info: fourierslicetheorem.jpg  used on input line 385.
 (pdftex.def)             Requested size: 345.0pt x 257.42734pt.
- [15 <./fourierslicetheorem.jpg>] [16]
+ [15 <./fourierslicetheorem.jpg>]
+
+LaTeX Warning: Citation `wolfram_convolution' on page 16 undefined on input lin
+e 437.
+
+[16]
 LaTeX Font Info:    Trying to load font information for U+bbm on input line 453
 .
-
-(C:\Users\reece\AppData\Local\Programs\MiKTeX\tex/latex/bbm\ubbm.fd
+ (C:\Users\reece\AppData\Local\Programs\MiKTeX\tex/latex/bbm\ubbm.fd
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
 )
-<fbpcircle.png, id=98, 209.78375pt x 221.32687pt>
+<fbpcircle.png, id=99, 209.78375pt x 221.32687pt>
 File: fbpcircle.png Graphic file (type png)
 <use fbpcircle.png>
 Package pdftex.def Info: fbpcircle.png  used on input line 458.
 (pdftex.def)             Requested size: 146.84761pt x 154.92773pt.
- [17 <./fbpcircle.png>]
-<fbpshepp.png, id=104, 212.795pt x 215.30438pt>
+
+
+LaTeX Warning: Citation `RadiopaediaGibbs' on page 17 undefined on input line 4
+62.
+
+[17 <./fbpcircle.png>]
+<fbpshepp.png, id=105, 212.795pt x 215.30438pt>
 File: fbpshepp.png Graphic file (type png)
 <use fbpshepp.png>
 Package pdftex.def Info: fbpshepp.png  used on input line 465.
@@ -815,80 +878,53 @@ Overfull \hbox (21.90111pt too wide) in paragraph at lines 477--478
 com / ReeceG499 / ct-[]simulation-[]project$
  []
 
-(WriteUp.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 13--17
-[]\OT1/cmr/m/n/10 ``Characteristic ra-di-a-tion.''  Ra-diopae-dia ref-er-ence a
-r-ti-cle
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--17
-\OT1/cmr/m/n/10 https://radiopaedia.org/articles/characteristic-radiation Ac-ce
-ssed:
- []
-
-[18 <./fbpshepp.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 19--22
-[]\OT1/cmr/m/n/10 Radiopaedia, ``Fil-ters,'' 2023.  Ra-diopae-dia ref-er-ence a
-r-ti-cle
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--34
-[]\OT1/cmr/m/n/10 ``Gunshot wound to face.''  Case study ac-cesed at
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--39
-[]\OT1/cmr/m/n/10 ``Ct cup-ping ar-ti-fact.''  Case study ac-cessed at
- []
-
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ” in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¶ in font cmr10!
-) [19] (WriteUp.aux)
+No file WriteUp.bbl.
+[18 <./fbpshepp.png>] (WriteUp.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 17526 strings out of 474424
- 353175 string characters out of 5741739
+ 17506 strings out of 474424
+ 352801 string characters out of 5741739
  1939496 words of memory out of 5000000
- 39569 multiletter control sequences out of 15000+600000
- 567783 words of font info for 75 fonts, out of 8000000 for 9000
+ 39551 multiletter control sequences out of 15000+600000
+ 568092 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,93p,874b,789s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,93p,881b,789s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\reece\AppData\Local\MiKTeX\fonts/pk/ljfour/public/bbm/dpi600\bbm10
 .pk> <C:\Users\reece\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
 rm1000.pk><C:/Users/reece/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb><C:/Users/reece/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/reece/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/reece/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/reece/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/reece/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/reece/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users
-/reece/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/reece/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/reece/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/reece/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/reece/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users
+/reece/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
 C:/Users/reece/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
-12.pfb><C:/Users/reece/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmr17.pfb><C:/Users/reece/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmr5.pfb><C:/Users/reece/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr7.pfb><C:/Users/reece/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/reece/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/reece/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/reece/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/reece/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/
-reece/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><
-C:/Users/reece/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbol
-s/msbm10.pfb>
-Output written on WriteUp.pdf (19 pages, 1150063 bytes).
+10.pfb><C:/Users/reece/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><C:/Users/reece/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr17.pfb><C:/Users/reece/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr5.pfb><C:/Users/reece/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/reece/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/reece/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/reece/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/reece/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/r
+eece/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
+:/Users/reece/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt
+10.pfb><C:/Users/reece/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/symbols/msbm10.pfb>
+Output written on WriteUp.pdf (18 pages, 1149055 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
+ 200 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
